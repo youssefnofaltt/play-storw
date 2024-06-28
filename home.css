@@ -1,0 +1,25 @@
+body{
+  
+  background-image: linear-gradient(to right,#01022d,#000);
+  font-size: 30px;
+font-style: italic;
+}
+.cont{
+  color: white;
+  
+  
+}
+.cont h1{
+  
+ font-size: 30px;
+font-style: italic;
+  text-transform: uppercase;
+  
+}
+.cont input{
+  
+  font-size: 20px;
+  border-radius: 15px;
+  
+  
+}

@@ -1,0 +1,24 @@
+body{
+  
+  background-image: linear-gradient(to right,#01022d,#000);
+  
+}
+.cont h1{
+  
+  font-size: 30px;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  
+  
+}
+.cont{
+color: white;
+  width: 50%;
+  margin-top: 50px;
+  padding: 30px;
+}
+.cont p{
+  width: 350px;
+  padding: 20px 10px;
+}

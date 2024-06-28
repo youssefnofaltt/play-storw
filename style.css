@@ -1,0 +1,102 @@
+body{
+  
+  font-style: italic;
+  font-size: 20px;
+  background-image: linear-gradient(to right,#01022d,#000)
+}
+.container h1{
+  padding: 0;
+  margin: 0;
+  
+  border-top-color: white;
+  color: white;
+  text-transform: uppercase;
+}
+a{
+  color: white;
+  text-decoration: none;
+  
+  
+  
+}
+.logo{
+  
+  font-size: 30px;
+  text-transform: uppercase
+  
+  
+}
+header{
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  
+  
+}
+ul{
+  list-style: none;
+  width: 60%;
+  justify-content: space-evenly;
+  display: flex;
+}
+ul a{
+  border-bottom: 2px solid transparent
+}
+ul a:hover{
+  
+ border-bottom-color: white;
+}
+.contant{
+  color: white;
+  width: 50%;
+  margin-top: 50px;
+  padding: 30px;
+  
+  
+  
+}
+.contant p{
+  
+  letter-spacing: 3px;
+  width: 350px;
+  padding: 20px 10px;
+  
+  
+  
+}
+.contant h2{
+  font-size: 100px;
+  text-transform: uppercase;
+  
+  
+}
+.contant button{
+  
+  
+  font-size: 30px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  border: 2px solid transparent
+}
+.contant button:hover{
+  
+ background-color: transparent;
+color: white;
+  border-color: white;
+  
+}
+.CNMUB{overflow:hidden;max-width:100%;margin:10px auto;clear:both;text-align:center;position:relative}
+.CNMUB a{text-decoration:none;margin:0 5px 10px !important;position:relative;height:48px;line-height:48px;padding:0 15px!important ;overflow:hidden;display:inline-block;border-radius:10px;color:#fff;font-family:inherit;font-size:16px;transition:all .4s ease}
+.CNMUB a:hover{background-color:#222}
+.CNMUB a *{float:right;line-height:inherit}
+.CNMUB i{font-size:20px;margin-left:8px}
+.CNMUB img {width: auto !important;height: 30px !important;max-height: 30px !important;max-width: 40px !important;margin: 9px -6px 0 5px;}
+.CNB1 { background-color: #01022d;}
+main {
+ display: flex;
+justify-content: space-between;  
+  
+  
+}

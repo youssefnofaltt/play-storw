@@ -1,0 +1,54 @@
+body{
+  
+  
+  background-image: linear-gradient(to right,#01022d,#000);
+
+  
+}
+.container h1{
+    font-style: italic;
+  font-size: 30px;
+  color: white;
+  text-transform: uppercade;
+  font-style: italic;
+  padding: 0px;
+  margin: 0px;
+  letter-spacing: 2px;
+  
+}
+input{
+  font-size: 20px;
+  color: black;
+  border-color: white;
+  border-radius: 10px;
+  
+  
+}
+.container button{
+    
+  border-radius: 15px;
+  border: 2px solid transparent;
+  font-size: 15px;
+  width: 50%;
+}
+.container button:hover{
+  background-color: transparent;
+   border-color: #01022d;
+  color: white;
+  
+}
+.contant input{
+  
+  border-radius: 15px;
+  border: 2px solid transparent;
+  font-size: 15px;
+  width: 50%;
+}
+.contant input:hover{
+  
+  background-color: transparent;
+   border-color: #01022d;
+  color: white; 
+  
+  
+}
